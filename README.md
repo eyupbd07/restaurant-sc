@@ -27,8 +27,11 @@
 * ⚙️ **Site Ayarları:** Site başlığı, iletişim bilgileri, Wi-Fi şifresi vb. ayarların panelden yönetimi.
 
 ## 📸 Ekran Görüntüleri
-![Uploading Ekran görüntüsü 2026-02-19 001223.png…]()
-
+<p align="center">
+  <img src="ss/s1.png" width="30%" alt="Dashboard Ekranı" title="Yönetim Paneli">
+  <img src="ss/s2.png" width="30%" alt="QR Menü" title="QR Menü">
+  <img src="ss/s3.png" width="30%" alt="Sipariş Ekranı" title="Sipariş Yönetimi">
+</p>
 
 ## 🛠️ Kurulum
 
